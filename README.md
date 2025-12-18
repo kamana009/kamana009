@@ -5,7 +5,6 @@
 Python | AWS | Linux | Git | Automation
 
 Focused on building hands-on DevOps projects and cloud automation.  
-Actively seeking internships and junior DevOps roles.
 📫 How to reach me kamanabhusal40@gmail.com...
 
 <!---
