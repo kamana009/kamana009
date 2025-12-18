@@ -2,7 +2,7 @@
 
  DevOps / Cloud Engineer
 
-Python | AWS | Linux | Git | Automation
+AWS | Linux | Git | Automation | Python
 
 Focused on building hands-on DevOps projects and cloud automation.  
 📫 How to reach me kamanabhusal40@gmail.com...
